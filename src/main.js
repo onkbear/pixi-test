@@ -1,4 +1,4 @@
-var PIXI = require('pixi.js')
+import * as PIXI from 'pixi.js';
 
 // Create a Pixi Application
 let app = new PIXI.Application();
